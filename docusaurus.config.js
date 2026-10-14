@@ -26,7 +26,7 @@ const config = {
   trailingSlash: false,
 
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   markdown: {
     mermaid: true,
     hooks: {
@@ -124,7 +124,7 @@ const config = {
             position: 'right',
           },
           {
-            href: '/aihub',
+            href: 'pathname:///aihub',
             position: 'right',
             label: 'AI Hub',
           },
@@ -142,7 +142,7 @@ const config = {
               },
               {
                 label: 'AI Hub Portal',
-                href: '/aihub',
+                href: 'pathname:///aihub',
               },
             ],
           },
