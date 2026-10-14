@@ -19,7 +19,7 @@ const config = {
     : (process.env.VERCEL_URL
         ? `https://${process.env.VERCEL_URL}`
         : 'https://bossofai.org'),
-  baseUrl: process.env.DOCS_BASE_URL || (process.env.VERCEL ? '/' : '/learning-hub/'),
+  baseUrl: process.env.DOCS_BASE_URL || '/learn/',
   organizationName: 'sanchitnis',
   projectName: 'learning-hub',
   deploymentBranch: 'gh-pages',

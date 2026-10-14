@@ -19,7 +19,7 @@ When this skill is invoked, update the following files to ensure consistency:
    - Must document the `:::glossary` dictionary lookup block structure.
 
 2. **`docs/05-Tools/tl300-presentation-creator/tl300-presentation-creator.md`**:
-   - Serves as the primary user-facing training guide for REVA faculty.
+   - Serves as the primary user-facing training guide for educators and faculty.
    - Explain the "Single-Source, Dual-View" Docusaurus & standalone compiler architecture.
    - Provide copy-pasteable markdown snippets of all elements from `input-template.md` with explanations of their visual styling and behaviour (e.g. how local storage tracks started/completed dates, language selectors, and glossary hover tooltips).
 
