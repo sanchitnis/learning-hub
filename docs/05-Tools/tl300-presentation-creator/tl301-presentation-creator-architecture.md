@@ -2,7 +2,7 @@
 
 ## System Overview
 
-The AI-powered presentation creator is a resilient, AI-native pedagogical engine that converts markdown-based educational content into modern web applications. It operates as part of the REVA Learning Hub ecosystem, enabling human-AI collaboration for high-quality course content generation.
+The AI-powered presentation creator is a resilient, AI-native pedagogical engine that converts markdown-based educational content into modern web applications. It operates as part of the Boss of AI Learning Hub ecosystem, enabling human-AI collaboration for high-quality course content generation.
 
 ## Architecture Principles
 
@@ -52,7 +52,7 @@ The AI-powered presentation creator is a resilient, AI-native pedagogical engine
 
 **Styling**
 - Tailwind CSS for utility-first styling
-- Custom REVA brand themes
+- Custom brand themes
 - CSS modules for component-specific styles
 - Dark/light mode support
 - Mobile-responsive breakpoints
@@ -287,7 +287,7 @@ Analytics Dashboard
 - **Authorization**: Row-Level Security (RLS) policies
 - **API Security**: Server-side API routes protect database credentials
 - **Data Encryption**: At rest (PostgreSQL) and in transit (TLS)
-- **CORS**: Configured to allow only REVA domains
+- **CORS**: Configured to allow only trusted platform domains
 - **Rate Limiting**: Vercel Edge Middleware + Supabase RLS
 
 **RLS Policies Example**:
@@ -396,11 +396,11 @@ Edge Functions (Serverless, auto-scale)
 
 ## Integration Architecture
 
-### REVA Agent Ecosystem
+### Boss of AI Agent Ecosystem
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│           REVA Learning Hub Agents                  │
+│           Academic Learning Hub Agents              │
 ├─────────────────────────────────────────────────────┤
 │  content-developer  →  Markdown Generator           │
 │  session-planner    →  Quiz Strategy Advisor        │
@@ -551,9 +551,9 @@ module.exports = {
 ### Custom Themes
 
 ```typescript
-// themes/reva-default.ts
-export const revaTheme: PresentationTheme = {
-  name: 'reva-default',
+// themes/default.ts
+export const defaultTheme: PresentationTheme = {
+  name: 'default',
   colors: {
     primary: '#1a73e8',
     secondary: '#34a853',

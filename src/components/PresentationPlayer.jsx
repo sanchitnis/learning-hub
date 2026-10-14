@@ -124,7 +124,7 @@ export default function PresentationPlayer({ children, onClose, title, author })
           <div className="h-4 w-px bg-slate-800" />
           <div>
             <h1 className="text-sm font-semibold text-slate-200 truncate max-w-[450px]">
-              {title || 'REVA Presentation'}
+              {title || 'Interactive Presentation'}
             </h1>
           </div>
         </div>
@@ -203,7 +203,7 @@ export default function PresentationPlayer({ children, onClose, title, author })
         </div>
 
         <div className="text-[10px] text-slate-500 font-mono uppercase tracking-wider">
-          {author ? `Presenter: ${author}` : 'REVA Educate to Enterprise'}
+          {author ? `Presenter: ${author}` : 'Boss of AI - Educate to Enterprise'}
         </div>
       </footer>
     </div>

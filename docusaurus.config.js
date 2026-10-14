@@ -10,14 +10,18 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'REVA LEARNING HUB',
+  title: 'Boss of AI — Learning Hub',
   tagline: 'Learn & Build - Collaborate & Innovate with AI',
   favicon: 'img/favicon.ico',
 
-  url: 'https://sanchitnis.github.io',
-  baseUrl: process.env.VERCEL ? '/' : '/REVA-learning-hub/',
+  url: process.env.VERCEL_PROJECT_PRODUCTION_URL
+    ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+    : (process.env.VERCEL_URL
+        ? `https://${process.env.VERCEL_URL}`
+        : 'https://bossofai.org'),
+  baseUrl: process.env.DOCS_BASE_URL || (process.env.VERCEL ? '/' : '/learning-hub/'),
   organizationName: 'sanchitnis',
-  projectName: 'REVA-learning-hub',
+  projectName: 'learning-hub',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
@@ -77,10 +81,10 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: '',
+        title: 'Boss of AI',
         logo: {
-          alt: 'REVA University Logo',
-          src: 'https://upload.wikimedia.org/wikipedia/commons/5/5f/REVA_University_Bangalore.png',
+          alt: 'Boss of AI Logo',
+          src: 'img/logo.svg',
         },
         items: [
           {
@@ -115,12 +119,12 @@ const config = {
             label: 'Resources',
           },
           {
-            href: 'https://reva.edu.in',
-            label: 'REVA University',
+            href: 'https://bossofai.org',
+            label: 'Boss of AI',
             position: 'right',
           },
           {
-            href: 'https://aihub.reva.edu.in',
+            href: '/aihub',
             position: 'right',
             label: 'AI Hub',
           },
@@ -130,33 +134,29 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Quick Links',
+            title: 'Platform',
             items: [
               {
-                label: 'REVA Website',
-                href: 'https://reva.edu.in',
+                label: 'Boss of AI',
+                href: 'https://bossofai.org',
               },
               {
-                label: 'REVA RACE',
-                href: 'https://race.reva.edu.in/',
+                label: 'AI Hub Portal',
+                href: '/aihub',
               },
             ],
           },
           {
-            title: 'Social',
+            title: 'Community & Connect',
             items: [
               {
-                label: 'Instagram',
-                href: 'https://www.instagram.com/revauniversity/',
-              },
-              {
                 label: 'LinkedIn',
-                href: 'https://www.linkedin.com/school/reva-university/',
+                href: 'https://linkedin.com/company/bossofai',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} REVA University. #REVAuniversity #EducateToEnterprise`,
+        copyright: `Copyright © ${new Date().getFullYear()} Boss of AI. All rights reserved.`,
       },
       prism: {
         theme: prismThemes.github,

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-REVA Learning Hub IPS Specification Validator
+Interactive Presentation Specification (IPS) Validator
 Strictly checks presentation markdown slide decks (-slides.md) against IPS rules.
 """
 
@@ -127,7 +127,7 @@ def validate_presentation_markdown(file_path):
         print(f"\n[FAIL] Found {len(errors)} IPS specification error(s) in {path.name}.")
         return False
     else:
-        print(f"[SUCCESS] 0 errors. File is 100% compliant with REVA IPS Specification.")
+        print(f"[SUCCESS] 0 errors. File is 100% compliant with IPS Specification.")
         return True
 
 if __name__ == "__main__":

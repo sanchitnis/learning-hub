@@ -379,7 +379,7 @@ export function AITutor() {
   return (
     <div className="p-5 rounded-2xl border border-slate-800 bg-slate-950/60 my-6 text-left flex flex-col h-[280px]">
       <div className="text-xs font-bold text-sky-400 uppercase tracking-wider mb-2 flex items-center gap-2">
-        <Sparkles className="h-4 w-4 text-sky-400" /> REVA AI Reflection Tutor
+        <Sparkles className="h-4 w-4 text-sky-400" /> AI Reflection Tutor
       </div>
       
       <div className="flex-1 overflow-y-auto space-y-3 pr-2 mb-3">

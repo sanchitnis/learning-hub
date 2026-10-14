@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;800&display=swap');
 
 :root {
-  --ifm-color-primary: #f7a35b; /* REVA Orange */
+  --ifm-color-primary: #f7a35b; /* Accent Primary */
   --ifm-color-primary-dark: #f58d36;
   --ifm-color-primary-darker: #f48224;
   --ifm-color-primary-darkest: #ca650b;
@@ -12,7 +12,7 @@
   --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
   --ifm-heading-font-family: 'Plus Jakarta Sans', sans-serif;
   
-  --ifm-footer-background-color: #4a4c55; /* REVA Grey */
+  --ifm-footer-background-color: #4a4c55; /* Neutral Dark */
 }
 
 /* Glassmorphism for Navbar */
@@ -41,7 +41,7 @@
   border-right: 1px solid rgba(255, 255, 255, 0.05) !important;
 }
 
-/* REVA Branded Button */
+/* Theme Primary Button */
 .button--primary {
   background-color: var(--ifm-color-primary);
   border-color: var(--ifm-color-primary);
@@ -121,7 +121,7 @@ html[data-lang="hi"] span.lang-inline[data-lang="hi"] {
 }
 
 /* ========================================== */
-/* REVA BRANDED MINIMALIST LAYOUT TEMPLATES  */
+/* MINIMALIST PRESENTATION LAYOUT TEMPLATES  */
 /* ========================================== */
 
 /* Hero / Welcome Layout */

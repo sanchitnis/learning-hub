@@ -14,7 +14,7 @@ Welcome to the **CSU101** course on Artificial Intelligence. This course focuses
 ## Resources
 - Syllabus
 - Assignment Submission Link
-- REVA University AI Research Group
+- AI Research & Working Group
 
 ---
-#REVAuniversity #EducateToEnterprise
+#EducateToEnterprise

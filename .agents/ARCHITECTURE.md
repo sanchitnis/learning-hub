@@ -1,12 +1,12 @@
-# REVA University — Agentic Academic Platform Architecture
+# the Academic Platform — Agentic Academic Platform Architecture
 
 > A Human-AI Collaborative System for AI-Era Curriculum Development, Portfolio-First Learning,
 > Enterprising Student Formation, Srujana Pathway, Personalised Tutoring, Stakeholder Governance,
-> and Institutional Excellence — aligned to ADDIE, NBA-OBE, NEP 2020, and REVA's Vision and Mission
+> and Institutional Excellence — aligned to ADDIE, NBA-OBE, NEP 2020, and the platform's Vision and Mission
 
 ---
 
-## REVA Vision and Mission
+## the platform Vision and Mission
 
 **Vision:** To become a technologically advanced, sustainable global university dedicated to the wellbeing of all.
 
@@ -17,7 +17,7 @@
 - Promote a culture of collaboration and cooperation
 - Serve humanity and promote sustainability through higher education based on universal values
 
-**Platform Promise:** Every course, every semester, every student emerges with a richer portfolio, a sharper enterprising mindset, a verified skill credential, and a clear personal trajectory — while REVA advances to Top 100 NIRF, deepens global partnerships, and lives its vision of wellbeing for all.
+**Platform Promise:** Every course, every semester, every student emerges with a richer portfolio, a sharper enterprising mindset, a verified skill credential, and a clear personal trajectory — while the platform advances to Top 100 NIRF, deepens global partnerships, and lives its vision of wellbeing for all.
 
 ---
 
@@ -47,13 +47,13 @@ This is broader than entrepreneurship. An enterprising nurse, civil servant, res
 
 ### PEO Ambition in the AI Era
 
-Program Educational Objectives are **raised** in this platform. AI augmentation means REVA graduates are expected to perform tasks and take on responsibilities that previously required 5–6 years of industry experience. PEOs reflect this raised ambition. COs embed the assumption that students work alongside AI tools — assessed on judgment, synthesis, creative application, and ethical reasoning, not on tasks that AI can do faster.
+Program Educational Objectives are **raised** in this platform. AI augmentation means the platform graduates are expected to perform tasks and take on responsibilities that previously required 5–6 years of industry experience. PEOs reflect this raised ambition. COs embed the assumption that students work alongside AI tools — assessed on judgment, synthesis, creative application, and ethical reasoning, not on tasks that AI can do faster.
 
 ---
 
 ## Overview
 
-The REVA Academic Agent Platform is a modular, multi-agent collaborative system covering the entire academic lifecycle — from future-of-jobs intelligence gathering through programme design, stakeholder validation, Board of Studies governance, content delivery, portfolio-building assessments, adaptive personalisation, and institutional positioning. It operates across online, face-to-face, and hybrid modes and integrates NBA accreditation, NIRF ranking strategy, the Srujana entrepreneurial pathway, and internationalisation by design.
+The the platform Academic Agent Platform is a modular, multi-agent collaborative system covering the entire academic lifecycle — from future-of-jobs intelligence gathering through programme design, stakeholder validation, Board of Studies governance, content delivery, portfolio-building assessments, adaptive personalisation, and institutional positioning. It operates across online, face-to-face, and hybrid modes and integrates NBA accreditation, NIRF ranking strategy, the Srujana entrepreneurial pathway, and internationalisation by design.
 
 The platform consists of:
 
@@ -137,14 +137,14 @@ Specialist AI collaboration partners. Each agent works alongside humans — gene
 | `stakeholder-validator` | AI prepares validation instruments and synthesises feedback; industry experts and faculty conduct the conversations and take the decisions | industry-review-facilitator, advisory-panel-coordinator, feedback-synthesis-engine, validation-gap-reporter |
 | `bos-governance-officer` | Prepares BOS proposals, compliance checks, agendas, and draft minutes; Board deliberates and decides — AI ensures nothing is missed | bos-proposal-formatter, regulatory-compliance-checker, bos-minutes-generator, curriculum-change-tracker |
 | `enterprising-skills-designer` | Co-designs enterprising human skills curriculum with faculty; embeds initiative, adaptability, collaboration, ethics, communication, and creativity across all programmes | enterprising-co-designer, human-skills-rubric-builder, liberal-arts-integration-designer, wellbeing-curriculum-designer |
-| `srujana-pathway-designer` | Architects Srujana pathway in collaboration with placement, industry relations, and REVA NEST teams; students navigate it with faculty mentors | srujana-stage-designer, internship-framework-builder, product-research-scaffolder, venture-launch-designer |
+| `srujana-pathway-designer` | Architects Srujana pathway in collaboration with placement, industry relations, and the platform NEST teams; students navigate it with faculty mentors | srujana-stage-designer, internship-framework-builder, product-research-scaffolder, venture-launch-designer |
 | `portfolio-architect` | Redesigns courses to be portfolio-first in partnership with faculty; every course produces a publication, product, open source contribution, or documented solution | portfolio-co-linker, publication-scaffolder, open-source-project-designer, product-brief-generator |
 | `ai-personalization-engine` | Configures AI tutoring and personalised pathways; human advisors and faculty monitor and intervene | ai-tutor-configurator, personalised-pathway-engine, honours-fast-track-designer, remedial-ai-tutor-designer |
 | `certification-integrator` | Maps NPTEL, SWAYAM, and professional certifications to programme credits; faculty and BOS validate equivalences | nptel-credit-mapper, swayam-integration-designer, professional-cert-aligner, mooc-portfolio-recognizer |
 | `internationalization-agent` | AI and international relations office jointly research partners and co-draft frameworks; academic leadership and partner institutions negotiate and decide | twinning-programme-designer, dual-degree-framework, international-credit-aligner, global-minor-designer |
 | `nirf-accelerator` | Analyses NIRF gaps and builds action plans for leadership review and prioritisation | nirf-parameter-analyzer, nirf-data-pipeline, admissions-excellence-tracker, placement-intelligence-reporter |
 | `accreditation-officer` | Prepares NBA SAR, NAAC DVV, and institutional documentation; peer committees and leadership review and certify | nba-sar-generator, naac-dvv-preparer, co-attainment-auditor, programme-review-documenter |
-| `interdisciplinary-connector` | Maps minor opportunities across all four models; faculty and programme committees decide which minors to activate | minor-framework-designer, intra-reva-minor-designer, nptel-swayam-minor-designer, international-minor-designer |
+| `interdisciplinary-connector` | Maps minor opportunities across all four models; faculty and programme committees decide which minors to activate | minor-framework-designer, intra-the platform-minor-designer, nptel-swayam-minor-designer, international-minor-designer |
 
 ---
 
@@ -160,7 +160,7 @@ Modular knowledge domains loaded on demand. Each skill supports human-AI collabo
 | ----- | ----------- |
 | `addie-phase-router` | Determines active ADDIE phase; routes to appropriate agents; surfaces human decision gates at each phase transition |
 | `needs-analysis` | Supports stakeholder interviews and learner needs synthesis; task analysis; performance gap identification; futures intelligence integration |
-| `context-analysis` | Environmental, institutional, stakeholder, and technology context analysis including AI-era readiness and REVA mission alignment |
+| `context-analysis` | Environmental, institutional, stakeholder, and technology context analysis including AI-era readiness and the platform mission alignment |
 | `learner-profile-builder` | Entry behaviour mapping, prior knowledge, Srujana stage, AI tool proficiency, and liberal arts interests |
 | `learning-design-principles` | Gagne's Nine Events, Merrill's First Principles, Dick and Carey model; holistic and wellbeing-aligned design |
 | `instructional-strategy-selector` | Matches teaching strategies to outcomes, Bloom's levels, and enterprising human-skills threads |
@@ -175,9 +175,9 @@ Modular knowledge domains loaded on demand. Each skill supports human-AI collabo
 
 | Skill | Description |
 | ----- | ----------- |
-| `peo-ai-era-designer` | PEO formulation raised to AI-augmented ambition: graduates expected to perform at 5–6 year experience levels through AI co-working; aligned to REVA Vision of global, sustainable, technologically advanced graduates |
+| `peo-ai-era-designer` | PEO formulation raised to AI-augmented ambition: graduates expected to perform at 5–6 year experience levels through AI co-working; aligned to the platform Vision of global, sustainable, technologically advanced graduates |
 | `po-design` | NBA 12 Program Outcomes alignment including AI literacy, ethical AI use, sustainability, and global competency |
-| `pso-design` | Program Specific Outcomes reflecting AI-era specialisations, industry-defined competencies, and REVA mission |
+| `pso-design` | Program Specific Outcomes reflecting AI-era specialisations, industry-defined competencies, and the platform mission |
 | `co-ai-augmented-designer` | CO writing embedding AI-augmentation assumptions: tasks achievable with AI raise the cognitive floor; assessment focuses on judgment, synthesis, creation, and ethics |
 | `co-po-mapping` | CO-PO and CO-PSO mapping matrix with strength levels (1/2/3); includes enterprising skills PO linkage |
 | `co-attainment-calculator` | Direct (CIA, end-sem) and indirect (surveys, portfolio review) attainment computation |
@@ -200,7 +200,7 @@ Modular knowledge domains loaded on demand. Each skill supports human-AI collabo
 | `ai-era-role-mapper` | Maps AI-era job roles (Prompt Engineer, AI Product Manager, MLOps, Responsible AI Specialist, etc.) to curriculum competency threads; presented as discussion input for faculty and industry panels |
 | `nasscom-skills-mapper` | Integrates NASSCOM FutureSkills Prime and sector skill reports into curriculum gap analysis for human validation |
 | `linkedin-trends-analyzer` | LinkedIn Economic Graph insights: in-demand skills, role evolution, hiring trends — compiled as faculty briefing inputs |
-| `industry-skills-taxonomy-builder` | Builds and maintains a living REVA skills taxonomy; faculty and industry advisors review and update each cycle |
+| `industry-skills-taxonomy-builder` | Builds and maintains a living the platform skills taxonomy; faculty and industry advisors review and update each cycle |
 | `curriculum-currency-checker` | Flags outdated topics, tools, and skills against current industry practice; presents flagged list for faculty action |
 | `ai-job-role-profile-generator` | Generates detailed AI-era job role profiles (responsibilities, skills, tools, CO linkage) as starting input for curriculum committee discussions |
 | `international-education-trends-scanner` | Scans QS, THE, and global curriculum benchmarks; supports academic leadership in programme positioning discussions |
@@ -223,7 +223,7 @@ Modular knowledge domains loaded on demand. Each skill supports human-AI collabo
 | `bos-minutes-generator` | Drafts structured BOS minutes with decisions, action items, and approval records for secretary review and sign-off |
 | `curriculum-change-tracker` | Tracks all changes through proposal → industry validation → BOS deliberation → approval → implementation → evaluation |
 | `external-examiner-briefing` | Prepares external examiner briefing documents, question paper review forms, and structured feedback formats |
-| `regulatory-compliance-checker` | UGC, AICTE, NEP 2020, and REVA internal policy compliance checks on every curriculum proposal before BOS submission |
+| `regulatory-compliance-checker` | UGC, AICTE, NEP 2020, and the platform internal policy compliance checks on every curriculum proposal before BOS submission |
 | `industry-partner-mou-designer` | Designs structured industry partnership MOUs with curriculum, placement, and research commitments for leadership negotiation |
 
 ---
@@ -232,19 +232,19 @@ Modular knowledge domains loaded on demand. Each skill supports human-AI collabo
 
 | Skill | Description |
 | ----- | ----------- |
-| `programme-structure-designer` | Credit distribution, semester layout, theory-lab-project balance, Srujana stage integration, and REVA mission alignment |
+| `programme-structure-designer` | Credit distribution, semester layout, theory-lab-project balance, Srujana stage integration, and the platform mission alignment |
 | `prerequisite-mapper` | Course dependency and knowledge pre-requisite mapping with visual dependency graph |
 | `curriculum-gap-analyzer` | Industry relevance, technology currency, and skills gap analysis using futures intelligence feeds and advisory inputs |
 | `curriculum-revision-tracker` | Version control and change management through BOS approval cycle |
 | `honours-curriculum-designer` | Honours with Research and Honours with Technology Commercialisation tracks for fast learners with early Srujana Stage 3 access |
 | `elective-pool-designer` | Open, professional, and discipline elective baskets incorporating NPTEL, SWAYAM, certifications, and liberal arts options |
 | `minor-framework-designer` | Overarching minor programme architecture supporting all four minor models |
-| `intra-reva-minor-designer` | Intra-REVA interdisciplinary minors: CS taking Design/Management, Engineering taking Life Sciences/Arts |
+| `intra-the platform-minor-designer` | Intra-the platform interdisciplinary minors: CS taking Design/Management, Engineering taking Life Sciences/Arts |
 | `nptel-swayam-minor-designer` | NPTEL and SWAYAM credit-bearing minor tracks with CO-PO mapping and BOS-approved equivalences |
 | `industry-micro-credential-minor` | Industry-defined micro-credential minors: AWS Cloud, Google AI, NASSCOM Data, Cisco Networking |
 | `international-minor-designer` | Joint minors co-designed and co-delivered with international partner universities |
 | `interdisciplinary-thread-mapper` | Cross-programme shared modules, joint project threads, and minor bridges |
-| `liberal-studies-integrator` | Embeds performing arts, literature, sports, sustainability, and creative disciplines into programme structure per REVA Mission |
+| `liberal-studies-integrator` | Embeds performing arts, literature, sports, sustainability, and creative disciplines into programme structure per the platform Mission |
 | `ug-pg-pathway-designer` | 3+1+1 and 4+1 integrated pathway design under UGC 2022 regulations |
 | `nep-credit-framework` | NEP 2020 credit framework, multiple entry-exit, Academic Bank of Credits integration |
 
@@ -270,8 +270,8 @@ Modular knowledge domains loaded on demand. Each skill supports human-AI collabo
 | Skill | Description |
 | ----- | ----------- |
 | `lecture-notes-generator` | Structured lecture notes with concepts, worked examples, self-check questions, and reflection prompts |
-| `slide-designer` | Pedagogically rich, REVA-branded slide decks (PPTX and HTML) with active learning cues |
-| `case-study-developer` | Real-world case studies; preference for Indian industry, social enterprise, and sustainability contexts aligned to REVA Mission |
+| `slide-designer` | Pedagogically rich, the platform-branded slide decks (PPTX and HTML) with active learning cues |
+| `case-study-developer` | Real-world case studies; preference for Indian industry, social enterprise, and sustainability contexts aligned to the platform Mission |
 | `problem-set-creator` | Graded problem sets across Bloom's levels; higher-order problems require judgment, synthesis, and creative application |
 | `ai-ready-content-designer` | Content designed for AI-era engagement: problems requiring creativity, ethical reasoning, stakeholder empathy, and societal judgment |
 | `reading-list-curator` | Primary readings, OERs, NPTEL modules, SWAYAM courses, arXiv papers, and textbooks curated by faculty with AI support |
@@ -279,7 +279,7 @@ Modular knowledge domains loaded on demand. Each skill supports human-AI collabo
 | `oer-packager` | Open Educational Resource packaging in SCORM and xAPI formats |
 | `microlearning-packager` | Bite-sized learning objects for spaced delivery and mobile access |
 | `annotation-guide-creator` | Guided annotation layers for papers, industry reports, and primary sources |
-| `wellbeing-content-integrator` | Embeds mental health, physical wellbeing, and values-based reflection into course content per REVA Vision |
+| `wellbeing-content-integrator` | Embeds mental health, physical wellbeing, and values-based reflection into course content per the platform Vision |
 
 ---
 
@@ -316,14 +316,14 @@ Modular knowledge domains loaded on demand. Each skill supports human-AI collabo
 | `industry-project-integrator` | Live industry problem statements, mentor mapping, and delivery protocols |
 | `hackathon-designer` | Hackathon challenge design, judging rubrics, and sprint scaffolding |
 | `design-thinking-workshop` | Human-centred design studio facilitation for wicked problems and social innovation |
-| `service-learning-designer` | Community-linked service learning with reflection frameworks and social impact portfolio — directly expressing REVA's mission of sustainability and universal values |
+| `service-learning-designer` | Community-linked service learning with reflection frameworks and social impact portfolio — directly expressing the platform's mission of sustainability and universal values |
 | `field-immersion-planner` | Industry visit, field study, and immersive experience planning |
 | `research-project-scaffolder` | Undergraduate research from hypothesis to paper, patent, or conference presentation |
 | `open-source-contribution-designer` | GitHub issues, PRs, documentation, and community engagement as assessed, portfolio-generating activities |
 | `publication-scaffolder` | Course project → literature context → writing → conference or journal submission pipeline |
 | `product-brief-generator` | Product requirement briefs from course COs linking learning to deliverable products and solutions |
-| `entrepreneurship-studio-designer` | Ideation-to-venture studio curriculum with REVA NEST integration and Srujana Stage 4 linkage |
-| `liberal-arts-experiential-designer` | Performing arts, literature, and sports-integrated learning experiences per REVA Mission |
+| `entrepreneurship-studio-designer` | Ideation-to-venture studio curriculum with the platform NEST integration and Srujana Stage 4 linkage |
+| `liberal-arts-experiential-designer` | Performing arts, literature, and sports-integrated learning experiences per the platform Mission |
 
 ---
 
@@ -338,7 +338,7 @@ Modular knowledge domains loaded on demand. Each skill supports human-AI collabo
 | `universal-design-learning` | UDL: multiple means of representation, engagement, and expression |
 | `metacognitive-prompts` | Self-reflection, think-alouds, and metacognitive strategy prompts — critical in AI era to prevent cognitive offloading |
 | `iks-integration` | Indian Knowledge Systems: Panchakosha, Guru-Shishya, Vivekananda's man-making education, contextual wisdom, sustainability ethics |
-| `holistic-learning-designer` | Cognitive, affective, psychomotor, social, and spiritual dimensions of learning aligned to REVA Vision of wellbeing for all |
+| `holistic-learning-designer` | Cognitive, affective, psychomotor, social, and spiritual dimensions of learning aligned to the platform Vision of wellbeing for all |
 | `inquiry-based-learning` | Guided and open inquiry sequence design |
 | `proctored-activity-designer` | Supervised in-person activities ensuring genuine brain and hand competency |
 | `flipped-classroom-designer` | Pre-class, in-class, and post-class activity sequencing |
@@ -348,31 +348,31 @@ Modular knowledge domains loaded on demand. Each skill supports human-AI collabo
 
 ### Enterprising Human Skills
 
-*The durable human advantage in the AI era — qualities that AI cannot replicate and that give REVA graduates their distinctive edge across every career path. Broader than entrepreneurship; fundamental to every professional and citizen.*
+*The durable human advantage in the AI era — qualities that AI cannot replicate and that give the platform graduates their distinctive edge across every career path. Broader than entrepreneurship; fundamental to every professional and citizen.*
 
 | Skill | Description |
 | ----- | ----------- |
 | `enterprising-co-designer` | Writes Enterprising Human Skills COs for every course: initiative, adaptability, collaborative agency, and value creation |
 | `critical-thinking-embedder` | Designs tasks requiring analysis of ambiguous problems, evaluation of competing arguments, and synthesis of novel solutions |
 | `communication-skill-designer` | Oral, written, visual, and cross-cultural communication tasks embedded as portfolio deliverables across all semesters |
-| `ethical-reasoning-designer` | Ethical case scenarios, responsible AI use, societal impact analysis, and value-based decision tasks aligned to REVA universal values mission |
+| `ethical-reasoning-designer` | Ethical case scenarios, responsible AI use, societal impact analysis, and value-based decision tasks aligned to the platform universal values mission |
 | `leadership-collaboration-designer` | Team dynamics, constructive conflict, peer leadership, and accountable collaboration structures in projects and labs |
 | `adaptability-resilience-designer` | Growth mindset tasks, iterative redesign challenges, failure reflection protocols, and adaptive learning experiences |
 | `creativity-and-initiative-designer` | Open-ended tasks rewarding original approaches, divergent thinking, and self-initiated exploration |
 | `financial-legal-literacy-designer` | Personal finance, IP basics, contracts, and startup compliance embedded as practical course threads |
 | `global-and-cultural-competence-designer` | Cross-cultural collaboration, global professional norms, and international perspectives in course projects |
-| `sustainability-values-designer` | Sustainability thinking, social responsibility, and universal values embedded into projects per REVA Mission |
+| `sustainability-values-designer` | Sustainability thinking, social responsibility, and universal values embedded into projects per the platform Mission |
 | `wellbeing-curriculum-designer` | Physical, mental, and social wellbeing integrated into design: study skills, stress resilience, community care |
 | `human-skills-rubric-builder` | Observable, assessable rubrics for enterprising human skills across academic, project, and portfolio contexts |
 | `human-advantage-portfolio-designer` | Designs the human skills portfolio: communication artefacts, ethical analyses, leadership reflections, social impact evidence |
 | `ai-human-collaboration-designer` | Teaches students to use AI as a tool while retaining ownership of judgment, creativity, ethics, and human relationships |
-| `liberal-arts-integration-designer` | Integrates performing arts, literature, creative writing, sports, and humanities into degree programmes per REVA Mission |
+| `liberal-arts-integration-designer` | Integrates performing arts, literature, creative writing, sports, and humanities into degree programmes per the platform Mission |
 
 ---
 
 ### Srujana Pathway Skills
 
-*Srujana (Sanskrit: सृजन — to create, to bring into being) is REVA's structured entrepreneurial progression pathway. Designed fresh in this architecture through collaboration among faculty, placement, industry relations, REVA NEST, and students.*
+*Srujana (Sanskrit: सृजन — to create, to bring into being) is the platform's structured entrepreneurial progression pathway. Designed fresh in this architecture through collaboration among faculty, placement, industry relations, the platform NEST, and students.*
 
 | Skill | Description |
 | ----- | ----------- |
@@ -380,13 +380,13 @@ Modular knowledge domains loaded on demand. Each skill supports human-AI collabo
 | `srujana-s1-skill-builder` | Stage 1 — Skill Formation: structured skill development through courses, labs, certifications, and foundational portfolio artefacts (Semesters 1–4) |
 | `srujana-s2-internship-designer` | Stage 2 — Real World Immersion: structured industry or research internship with COs, mentor mapping, and reflective portfolio (Semesters 3–6) |
 | `srujana-s3-product-research-designer` | Stage 3 — Create and Contribute: product development, research project, patent filing, open source contribution, or published paper (Semesters 5–7) |
-| `srujana-s4-venture-designer` | Stage 4 — Enterprise: venture design through REVA NEST; pitch preparation, business model, legal setup, investor readiness (Semester 7–8 and beyond) |
+| `srujana-s4-venture-designer` | Stage 4 — Enterprise: venture design through the platform NEST; pitch preparation, business model, legal setup, investor readiness (Semester 7–8 and beyond) |
 | `srujana-portfolio-integrator` | Integrates all four Srujana stage artefacts into a unified enterprising portfolio — the student's journey from learner to creator |
 | `srujana-milestone-tracker` | Tracks student progress through stages with milestone gates, faculty mentor check-ins, and advisory reviews |
 | `srujana-counsellor` | Guides students and advisors in identifying Srujana stage, choosing electives, certifications, and internship tracks |
 | `internship-framework-builder` | Institutional internship credit framework: guidelines, mentor mapping, assessment rubrics, credit recognition |
 | `product-research-scaffolder` | Stage 3 scaffold: problem identification, ideation, prototype, IP check, paper writing, or open source pipeline |
-| `venture-launch-designer` | REVA NEST integration, pitch scaffolding, team formation, financial modelling, and founder mindset development |
+| `venture-launch-designer` | the platform NEST integration, pitch scaffolding, team formation, financial modelling, and founder mindset development |
 | `srujana-industry-connect-builder` | Builds the industry and alumni mentor network supporting Srujana Stages 2, 3, and 4 |
 
 ---
@@ -401,7 +401,7 @@ Modular knowledge domains loaded on demand. Each skill supports human-AI collabo
 | `open-source-contribution-designer` | GitHub issues, PRs, documentation, and community engagement as assessed portfolio-generating activities |
 | `product-artefact-designer` | Product spec documents, prototypes, technical demos, and solution briefs as course outputs |
 | `portfolio-review-rubric-builder` | Analytic rubrics for portfolio artefact quality, originality, and public impact |
-| `digital-portfolio-publisher` | Guides students in publishing portfolios on GitHub Pages, personal sites, or REVA's showcase platform |
+| `digital-portfolio-publisher` | Guides students in publishing portfolios on GitHub Pages, personal sites, or the platform's showcase platform |
 | `placement-portfolio-connector` | Links portfolio artefacts directly to placement readiness and recruiter-facing profiles |
 | `portfolio-integrity-auditor` | Verifies portfolio artefacts represent genuine student work; distinguishes AI-assisted from student-authored elements |
 
@@ -493,13 +493,13 @@ Modular knowledge domains loaded on demand. Each skill supports human-AI collabo
 | ----- | ----------- |
 | `twinning-programme-designer` | Twinning programme design: credit equivalence, quality assurance protocols, student mobility, and joint delivery |
 | `dual-degree-framework` | Dual degree architecture: partner selection criteria, joint COs, shared assessment, mutual credential recognition |
-| `international-credit-aligner` | Maps REVA courses to ECTS, US credit hours, and APQF frameworks |
+| `international-credit-aligner` | Maps the platform courses to ECTS, US credit hours, and APQF frameworks |
 | `mobility-programme-planner` | Inbound and outbound student mobility: summer schools, semester abroad, research exchange, faculty mobility |
-| `international-curriculum-benchmarker` | Benchmarks REVA programmes against top 100 global university curricula in the same discipline |
-| `joint-research-programme-designer` | Joint research and innovation programmes aligned to REVA's sustainability and technology vision |
+| `international-curriculum-benchmarker` | Benchmarks the platform programmes against top 100 global university curricula in the same discipline |
+| `joint-research-programme-designer` | Joint research and innovation programmes aligned to the platform's sustainability and technology vision |
 | `english-medium-course-designer` | Courses for international student cohorts with language support and cultural contextualisation |
 | `global-minor-designer` | Minors co-designed and co-delivered with international partner universities |
-| `international-partner-intelligence` | AI-assisted research on potential partner universities by ranking, discipline strength, and REVA Vision alignment; humans negotiate and decide |
+| `international-partner-intelligence` | AI-assisted research on potential partner universities by ranking, discipline strength, and the platform Vision alignment; humans negotiate and decide |
 
 ---
 
@@ -526,7 +526,7 @@ Modular knowledge domains loaded on demand. Each skill supports human-AI collabo
 
 | Skill | Description |
 | ----- | ----------- |
-| `nirf-parameter-analyzer` | Analyses REVA's position on each NIRF parameter; identifies priority gaps with estimated rank impact |
+| `nirf-parameter-analyzer` | Analyses the platform's position on each NIRF parameter; identifies priority gaps with estimated rank impact |
 | `nirf-data-pipeline` | Automates NIRF data collection, cleaning, and submission-ready packaging |
 | `nirf-action-plan-generator` | NIRF improvement action plans by parameter with owner, timeline, and measurable target |
 | `admissions-excellence-tracker` | Student quality metrics, programme appeal signals, and competitive positioning for admissions |
@@ -547,7 +547,7 @@ Modular knowledge domains loaded on demand. Each skill supports human-AI collabo
 | `academic-calendar-generator` | Lesson plan, teaching calendar, and session log generation |
 | `programme-review-documenter` | Board of Studies documentation and curriculum revision records |
 | `accreditation-gap-analyzer` | Gaps between current programme state and accreditation criteria with remediation plan |
-| `regulatory-compliance-checker` | UGC, AICTE, NEP 2020, and REVA policy compliance checks |
+| `regulatory-compliance-checker` | UGC, AICTE, NEP 2020, and the platform policy compliance checks |
 
 ---
 
@@ -560,7 +560,7 @@ Modular knowledge domains loaded on demand. Each skill supports human-AI collabo
 | `course-review-feedback` | Structured feedback on course design, portfolio linkage, AI-readiness, and enterprising-skills presence |
 | `micro-teaching-evaluator` | Micro-teaching observation rubrics and structured debrief guides |
 | `research-integration-advisor` | Research-teaching nexus: connecting faculty research to course content and student projects |
-| `faculty-load-optimizer` | Teaching load calculation, distribution, and optimisation per REVA policy |
+| `faculty-load-optimizer` | Teaching load calculation, distribution, and optimisation per the platform policy |
 | `fdp-programme-designer` | FDP design aligned to OBE, active learning, AI-era pedagogy, and portfolio-first principles |
 | `mentorship-programme-designer` | New faculty mentorship programme design and milestone planning |
 
@@ -570,9 +570,9 @@ Modular knowledge domains loaded on demand. Each skill supports human-AI collabo
 
 | Skill | Description |
 | ----- | ----------- |
-| `pptx-generator` | REVA-branded PowerPoint for sessions, BOS presentations, and academic events |
-| `docx-generator` | REVA-branded Word documents for course materials, proposals, and reports |
-| `html-page-builder` | Interactive HTML educational pages with REVA branding |
+| `pptx-generator` | the platform-branded PowerPoint for sessions, BOS presentations, and academic events |
+| `docx-generator` | the platform-branded Word documents for course materials, proposals, and reports |
+| `html-page-builder` | Interactive HTML educational pages with the platform branding |
 | `pdf-exporter` | PDF export of syllabi, BOS proposals, and accreditation documents |
 | `syllabus-page-renderer` | OBE syllabus page with CO-PO tables, certification linkage, portfolio expectations, and Srujana stage indicator |
 | `excel-report-generator` | CO attainment, analytics, NIRF data, and programme review Excel reports |
@@ -658,12 +658,12 @@ User Request / Academic Trigger / Institutional Signal
                     ↓
     Read references/ (templates, rubrics,
     frameworks, WEF/NASSCOM feeds, BOS
-    proposal formats, REVA policy docs)
+    proposal formats, the platform policy docs)
                     ↓
     Read scripts/ (computation, validation,
     generation, portfolio audit, NIRF data)
                     ↓
-    Apply REVA branding to all outputs
+    Apply the platform branding to all outputs
                     ↓
   ┌─────────────────────────────────────┐
   │   Governance Gate                   │
@@ -682,8 +682,8 @@ skill-name/
 │                      #   human decision points, governance gates
 ├── scripts/           # (Optional) Python/Bash computation and generation
 ├── references/        # (Optional) Templates, rubric banks, framework docs,
-│                      #   CO banks, WEF/NASSCOM data, REVA policy documents
-└── assets/            # (Optional) REVA logos, brand tokens, illustration sets
+│                      #   CO banks, WEF/NASSCOM data, the platform policy documents
+└── assets/            # (Optional) the platform logos, brand tokens, illustration sets
 ```
 
 ---
@@ -755,7 +755,7 @@ Quality-gate scripts enforcing OBE compliance, portfolio integrity, AI-readiness
 | Portfolio-first course redesign | `portfolio-architect` | `/portfolio-design` | portfolio-co-linker, publication-scaffolder, portfolio-review-rubric-builder |
 | AI-ready assessment design | `assessment-engineer` | `/build-assessment` | ai-ready-assessment-auditor, hots-assignment-designer, proctored-assessment-designer |
 | Session material development | `session-planner` + `content-developer` | `/develop-session` | active-learning-strategies, slide-designer, proctored-activity-designer |
-| Minors (all four models) | `interdisciplinary-connector` | `/design-curriculum` | intra-reva-minor-designer, nptel-swayam-minor-designer, industry-micro-credential-minor, international-minor-designer |
+| Minors (all four models) | `interdisciplinary-connector` | `/design-curriculum` | intra-the platform-minor-designer, nptel-swayam-minor-designer, industry-micro-credential-minor, international-minor-designer |
 | NPTEL / SWAYAM / certifications | `certification-integrator` | `/certify-map` | nptel-credit-mapper, professional-cert-aligner, mooc-portfolio-recognizer |
 | Honours / fast learners | `learning-pathway-designer` | `/personalize` | honours-fast-track-designer, enrichment-content-designer |
 | AI tutor / slow learners | `ai-personalization-engine` | `/personalize` | ai-tutor-configurator, remedial-ai-tutor-designer |
@@ -774,8 +774,8 @@ Quality-gate scripts enforcing OBE compliance, portfolio integrity, AI-readiness
 Every agent, skill, workflow, and validator in this platform is grounded in the following non-negotiable principles:
 
 - **Human-AI collaboration at every step** — AI accelerates, drafts, analyses, and surfaces options; humans exercise judgment, build relationships, and take final decisions. No curriculum, assessment, or governance action proceeds on AI output alone.
-- **REVA Vision as the compass** — Technologically advanced, sustainable, global, dedicated to the wellbeing of all. Every design choice is tested against this.
-- **REVA Mission as the design brief** — Learner-centred, entrepreneurial stewardship, liberal arts and creative disciplines, collaboration, universal values, and sustainability. These are structural requirements, not decorative statements.
+- **the platform Vision as the compass** — Technologically advanced, sustainable, global, dedicated to the wellbeing of all. Every design choice is tested against this.
+- **the platform Mission as the design brief** — Learner-centred, entrepreneurial stewardship, liberal arts and creative disciplines, collaboration, universal values, and sustainability. These are structural requirements, not decorative statements.
 - **ADDIE as the operating backbone** — Analysis always precedes Design; Development is validated before Implementation; Evaluation feeds back into every phase.
 - **NBA OBE as the quality contract** — Every course artefact is traceable to a CO; every CO is mapped to a PO; attainment is computed, evidenced, and audited.
 - **PEOs raised for the AI era** — Graduates are expected to perform at 5–6 year experience levels through AI co-working; COs embed this; assessments test judgment, synthesis, creation, and ethics.
@@ -789,10 +789,10 @@ Every agent, skill, workflow, and validator in this platform is grounded in the 
 - **Governance integrity** — Industry validation and BOS approval are human deliberative processes. AI prepares and documents; the Board decides.
 - **Internationalisation as a long-term human relationship** — Twinning, dual degrees, and joint programmes are built on trust, sustained dialogue, and mutual academic respect — supported by AI intelligence, driven by human partnership.
 - **NIRF Top 100 as the institutional north star** — Every platform capability connects to research output, academic quality, placements, faculty excellence, and global engagement.
-- **REVA brand on every output** — All documents, pages, and slides conform to REVA visual identity, typography, and brand voice.
+- **the platform brand on every output** — All documents, pages, and slides conform to the platform visual identity, typography, and brand voice.
 
 ---
 
-*REVA University — Educate to Enterprise*
+*the Academic Platform — Educate to Enterprise*
 *"To become a technologically advanced, sustainable global university dedicated to the wellbeing of all"*
 *Platform Version: 2.0 | Academic Year: 2025–26*

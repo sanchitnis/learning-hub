@@ -1,8 +1,8 @@
-# REVA University — Agentic Academic Platform
+# Boss of AI — Agentic Academic Platform
 
 > A Human-AI Collaborative System for AI-Era Curriculum Development, Portfolio-First Learning, Enterprising Student Formation, Srujana Pathway, Personalised Tutoring, Stakeholder Governance, and Institutional Excellence.
 
-Welcome to the **REVA Learning Hub**. This platform is a collaborative intelligence environment where human judgment, institutional wisdom, faculty expertise, industry insight, and student agency are the primary authors — and AI acts as the accelerator, quality mirror, and tireless first-draft partner.
+Welcome to the **Boss of AI Learning Hub**. This platform is a collaborative intelligence environment where human judgment, institutional wisdom, faculty expertise, industry insight, and student agency are the primary authors — and AI acts as the accelerator, quality mirror, and tireless first-draft partner.
 
 ## For AGENTS:
 Currently focusing only on tools\presentation-creator. Refer to files in that folder only. Others are for future. This project is under construction.
@@ -116,7 +116,7 @@ The presentation compiler has been restructured to output files directly into th
 
 ## 🚀 Deployment (GitHub Pages)
 
-The main portal and all integrated presentations are deployed to **https://sanchitnis.github.io/REVA-learning-hub/** via GitHub Actions on every push to `main`.
+The main portal and all integrated presentations are deployed to **https://sanchitnis.github.io/learning-hub/** via GitHub Actions on every push to `main`.
 
 ### Automatic Deployment (CI/CD)
 

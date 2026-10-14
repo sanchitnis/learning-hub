@@ -13,13 +13,13 @@ SLIDE 0.1
 ─────────────────────────────────────
 # AI Driver's License Program - Educate to Enterprise
 
-Designing learning experiences for REVA University students to:
+Designing learning experiences for the institution students to:
 - Promote genuine student learning
 - Prevent cognitive outsourcing to AI
 - Prepare students for AI-era careers
 - Encourage responsible, effective use of AI
 - Strengthen human capabilities that grow MORE valuable because AI exists
-- Overall to support the Educate to Enterprise Philosophy of REVA University
+- Overall to support the Educate to Enterprise Philosophy of the institution
 
 > "The goal is not to stop students from using AI. The goal is to
 >  design learning experiences that develop capabilities becoming
@@ -59,7 +59,7 @@ By the end of this module, you will be able to:
   your own course
 - Apply the "Jagged Intelligence" lens to teach verification
   and judgment
-- Complete a structured Course Audit using the REVA Course
+- Complete a structured Course Audit using the Course
   Audit Rubric
 ─────────────────────────────────────
 
@@ -237,7 +237,7 @@ Higher education must decide what it is preparing students to be:
 - AI creators — build new AI-powered solutions
 - AI orchestrators — direct AI systems and workflows toward goals
 
-REVA's AI Ascent framework (Consumer → Creator → Builder →
+our AI Ascent framework (Consumer → Creator → Builder →
 Orchestrator → Researcher) maps this progression across a full
 degree program. See the AI Ascent materials for the complete
 model and how individual courses map onto it.
@@ -245,7 +245,7 @@ model and how individual courses map onto it.
 
 FACILITATOR NOTES:
 Keep this slide brief — its purpose is to connect faculty to the
-one canonical progression model used across REVA, not to re-teach
+one canonical progression model used across the platform, not to re-teach
 it from scratch.
 ```
 
@@ -254,7 +254,7 @@ SLIDE 1.8
 ─────────────────────────────────────
 ## Faculty Activity: Course Audit
 
-Using the REVA Course Audit Rubric (handout), classify each major
+Using the Course Audit Rubric (handout), classify each major
 assessment in one of your courses:
 
 - AI-Vulnerable — fully outsourceable to AI as currently designed
@@ -1166,12 +1166,12 @@ SLIDE 6.1
 
 Purpose: Assignment redesign alone is not enough. This module
 addresses whole-course and whole-curriculum redesign, and connects
-your classroom decisions to REVA's institutional AI usage policy.
+your classroom decisions to our institutional AI usage policy.
 ─────────────────────────────────────
 
 FACILITATOR NOTES:
 This module closes the loop from individual assignments (Modules
-3–5) to full courses and, eventually, to REVA's broader strategy.
+3–5) to full courses and, eventually, to our broader strategy.
 ```
 
 ```
@@ -1267,13 +1267,13 @@ AI Usage Declaration alongside their submission:
 - What was kept, changed, or discarded from the AI's output
 - A brief statement of what the student verified independently
 
-This is not a new form to invent — REVA already has a working
+This is not a new form to invent — the platform already has a working
 declaration mechanism aligned to current published research
 standards for AI usage disclosure. Use it as-is.
 ─────────────────────────────────────
 
 FACILITATOR NOTES:
-Point faculty directly to REVA's existing guide-llm-declaration
+Point faculty directly to our existing guide-llm-declaration
 tool here rather than asking them to design their own disclosure
 form — this saves significant Module 6 preparation time and keeps
 disclosure format consistent across departments.
@@ -1282,7 +1282,7 @@ disclosure format consistent across departments.
 ```
 SLIDE 6.6
 ─────────────────────────────────────
-## The REVA Assignment Rubric
+## The Assignment Rubric
 
 | Criterion | Weight |
 |---|---|
@@ -1697,6 +1697,6 @@ should represent this relationship accurately: the theories explain
 the tools are validated interventions in their own right. Where a
 department or reviewer asks for evidence of impact, the honest
 answer is that the tools are theory-informed by design, and their
-actual effectiveness at REVA should be tracked through the Success
+actual effectiveness across the institution should be tracked through the Success
 Metrics and Capstone pilot data described in Module 6 — not assumed
 from the theory alone.

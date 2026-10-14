@@ -375,7 +375,7 @@ function AITutor() {
   return (
     <div className="p-5 rounded-2xl border border-slate-800 bg-slate-950/60 my-6 text-left animate-fade-up flex flex-col h-[280px]">
       <div className="text-xs font-bold text-sky-400 uppercase tracking-wider mb-2 flex items-center gap-2">
-        <Sparkles className="h-4 w-4 text-sky-400" /> REVA AI Reflection Tutor
+        <Sparkles className="h-4 w-4 text-sky-400" /> AI Reflection Tutor
       </div>
       
       <div className="flex-1 overflow-y-auto space-y-3 pr-2 mb-3">
@@ -497,7 +497,7 @@ function App() {
   
   // Progress State
   const [progress, setProgress] = useState(() => {
-    const key = `reva_progress_${title.replace(/\s+/g, '_')}`;
+    const key = `slide_progress_${title.replace(/\s+/g, '_')}`;
     const saved = localStorage.getItem(key);
     return saved ? JSON.parse(saved) : {
       startedAt: new Date().toISOString(),
@@ -508,7 +508,7 @@ function App() {
   
   // Sync progress effect
   useEffect(() => {
-    const key = `reva_progress_${title.replace(/\s+/g, '_')}`;
+    const key = `slide_progress_${title.replace(/\s+/g, '_')}`;
     setProgress(prev => {
       const visited = prev.visitedSlides.includes(currentSlide) 
         ? prev.visitedSlides 

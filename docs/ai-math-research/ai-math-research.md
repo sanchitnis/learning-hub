@@ -114,4 +114,4 @@ Explore the interactive slide deck compiled using Srujana-Bodha Presentation Cre
 - Course Descriptor: [AI Math Research Descriptor](file:///d:/Github/CourseDesign/ai-researcher/course-descriptor-ai-math-research.md)
 
 ---
-#REVAuniversity #AIMicrolearning #EducateToEnterprise #Lean4 #Formalization #SanjayChitnis
+#AIMicrolearning #EducateToEnterprise #Lean4 #Formalization #SanjayChitnis

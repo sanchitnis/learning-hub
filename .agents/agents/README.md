@@ -1,2 +1,2 @@
-﻿# Academic Agents
-Specialist AI collaboration partners for REVA University Academic Platform.
+# Academic Agents
+Specialist AI collaboration partners for the Academic Platform.

@@ -1,6 +1,6 @@
-# How to Create Content in REVA Learning Hub
+# How to Create Content in the Learning Hub
 
-This guide explains how educators and content developers can write documentation, course materials, and interactive slide presentations for the REVA Learning Hub.
+This guide explains how educators and content developers can write documentation, course materials, and interactive slide presentations for the Boss of AI Learning Hub.
 
 ---
 

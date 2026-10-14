@@ -1,6 +1,6 @@
 # Faculty & Staff Guides
 
-Resources and best practices for educators at REVA University.
+Resources and best practices for educators and researchers.
 
 ## Guidelines
 - **How to Create Content**: [Guidelines for standard pages and interactive slideshows](./pdf501-content-creation.md).
@@ -10,4 +10,4 @@ Resources and best practices for educators at REVA University.
 - **Student Mentorship**: Frameworks for guiding "Educate to Enterprise" initiatives.
 
 ---
-#REVAuniversity #EducateToEnterprise
+#EducateToEnterprise

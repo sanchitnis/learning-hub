@@ -12,7 +12,7 @@ Learn to build high-performance, accessible, and scalable web applications using
 - Responsive design for diverse devices.
 - Industry-readiness through project-based learning.
 
-Join our hackathons and development workshops as part of REVA's innovation ecosystem.
+Join our hackathons and development workshops as part of our open innovation ecosystem.
 
 ---
-#REVAuniversity #EducateToEnterprise
+#EducateToEnterprise

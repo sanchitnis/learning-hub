@@ -1,5 +1,5 @@
 # Course Buddy Instance: Introduction to Srujana-Bodha
-> **Subtitle**: A platform for REVA faculty to create a course and deliver it using AI features
+> **Subtitle**: A platform for faculty to create a course and deliver it using AI features
 > **File**: `intro-srujana-bodha.md`
 
 ---
@@ -10,11 +10,11 @@
 |-------|-------|
 | Course code | `SB-101` |
 | Course name | `Introduction to Srujana-Bodha` |
-| Subtitle | `A platform for REVA faculty to create a course and deliver it using AI features` |
+| Subtitle | `A platform for faculty to create a course and deliver it using AI features` |
 | Short name | `intro-srujana-bodha` |
 | Stream | `Faculty Development / Pedagogical AI` |
 | Semester | `FDP / Professional Certification` |
-| Instructor | `REVA AI Learning Hub / Srujana-Bodha Core Team` |
+| Instructor | `AI Learning Hub / Srujana-Bodha Core Team` |
 
 **Supplemental context**: Load `knowledge/SB-101-intro-srujana-bodha/wiki/index.md` at the start of every session for this course.
 
@@ -22,10 +22,10 @@
 
 ## Section 2 — Textbooks and References
 
-1. **Interactive Presentation Specification (IPS v1.0)** — `d:\Github\REVA-learning-hub\tools\presentation-creator\specification.md`
-2. **Microlearning Input Authoring Guide** — `d:\Github\REVA-learning-hub\tools\presentation-creator\input-template.md`
-3. **Srujana-Bodha Presentation Creator CLI & Converter** — `d:\Github\REVA-learning-hub\tools\presentation-creator\convert.py`
-4. **REVA Human Advantage Framework (RHAF)** — Outcome-Based Education (OBE) & Microlearning Guidelines.
+1. **Interactive Presentation Specification (IPS v1.0)** — `tools/presentation-creator/specification.md`
+2. **Microlearning Input Authoring Guide** — `tools/presentation-creator/input-template.md`
+3. **Srujana-Bodha Presentation Creator CLI & Converter** — `tools/presentation-creator/convert.py`
+4. **Human Advantage Framework (HAF)** — Outcome-Based Education (OBE) & Microlearning Guidelines.
 
 ---
 
@@ -104,7 +104,7 @@
 * **5.3 Command Line Conversion (`convert.py`)**:
   * Running the CLI build command: `python tools/presentation-creator/convert.py <input-file.md>`.
   * Parsing markdown AST, compiling presentation-data JSON, and building static HTML assets.
-* **5.4 Delivery & LMS Integration**: Exporting single-page HTML presentations, SCORM/xAPI packages, and sharing interactive web decks with REVA faculty and students.
+* **5.4 Delivery & LMS Integration**: Exporting single-page HTML presentations, SCORM/xAPI packages, and sharing interactive web decks with faculty and students.
 
 ---
 
@@ -175,7 +175,7 @@ Apply this sequence for every concept discussion:
 
 ## Section 8 — Integrity Guardrail (AI Use)
 
-Apply the REVA sequence: **Attempt → Assist → Augment → Automate**
+Apply the pedagogical sequence: **Attempt → Assist → Augment → Automate**
 
 - Faculty/learner must draft the slide structure before receiving AI enhancements.
 - AI assists with Markdown formatting, layout selection, and quiz prompt refinement — not raw content invention.

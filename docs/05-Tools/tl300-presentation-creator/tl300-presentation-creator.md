@@ -1,6 +1,6 @@
 # AI-Powered Presentation Creator & Interactive Presentation Specification (IPS)
 
-The Presentation Creator is part of the **REVA Learning Hub**—a Human-AI collaborative platform for curriculum design and interactive learning. This tool compiles single-file Markdown presentations into modern, responsive, and highly interactive slideshow applications.
+The Presentation Creator is part of the **Learning Hub**—a Human-AI collaborative platform for curriculum design and interactive learning. This tool compiles single-file Markdown presentations into modern, responsive, and highly interactive slideshow applications.
 
 ---
 
@@ -14,7 +14,7 @@ This tool decouples educational content (Markdown) from the presentation layer (
 ```text
 /CourseDesign/<course-name>/ (Markdown Source in sibling workspace)
          ↓  [Runs: python tools/presentation-creator/convert.py]
-/static/presentations/<course-name>/ (Compiled HTML slideshow + copied media assets in REVA-learning-hub)
+/static/presentations/<course-name>/ (Compiled HTML slideshow + copied media assets in learning-hub)
 ```
 
 ---
@@ -22,7 +22,7 @@ This tool decouples educational content (Markdown) from the presentation layer (
 ## 🛠️ 2. Getting Started & Compilation
 
 ### Compilation Command
-To compile a presentation, run `convert.py` from the root of `REVA-learning-hub` folder, passing the path to the source Markdown file in the sibling `CourseDesign` workspace folder:
+To compile a presentation, run `convert.py` from the root of `learning-hub` folder, passing the path to the source Markdown file in the sibling `CourseDesign` workspace folder:
 ```bash
 python tools/presentation-creator/convert.py ../CourseDesign/<course-name>/<file-name>.md
 ```
@@ -46,7 +46,7 @@ specVersion: 1.0
 title: "Introduction to AI-Era Education"
 subtitle: "Strategic Roadmap"
 author: "Dr. Sanjay Chitnis"
-affiliation: "REVA University"
+affiliation: "Boss of AI"
 theme: "default"
 date: "2025"
 aspectRatio: "16:9"
@@ -264,7 +264,7 @@ Tag slide content with explicit learning contexts to render them with colored hi
   ```
 * **Mnemonic Block**:
   ```markdown
-  :::mnemonic REVA TRACK
+  :::mnemonic TRACK Framework
   **T**eaching, **R**esearch, **A**dministration, **C**onsulting, **K**aizen.
   :::
   ```

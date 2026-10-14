@@ -6,7 +6,7 @@ description: Generates a full course outline including AI-augmented Course Outco
 # `course-outline-writer` Skill
 
 ## Overview
-This skill is used by the `course-designer` agent to draft an AI-augmented course outline. It ensures that the generated curriculum aligns with the REVA University vision, incorporating modern pedagogical structures, portfolio-first deliverables, and specific linkages to the Srujana progression pathway.
+This skill is used by the `course-designer` agent to draft an AI-augmented course outline. It ensures that the generated curriculum aligns with the the institutional vision, incorporating modern pedagogical structures, portfolio-first deliverables, and specific linkages to the Srujana progression pathway.
 
 ## Process
 

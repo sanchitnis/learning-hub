@@ -1,12 +1,12 @@
 @import "tailwindcss";
 
 @theme {
-  --color-slate-950: #060B13;      /* Deep REVA Navy */
+  --color-slate-950: #060B13;      /* Deep Dark Navy */
   --color-slate-900: #0B1726;
   --color-slate-800: #152538;
   --color-slate-700: #233850;
   
-  --color-sky-400: #E5A823;        /* REVA Gold */
+  --color-sky-400: #E5A823;        /* Accent Gold */
   --color-sky-500: #C69214;
   
   --font-serif: 'Merriweather', serif;
@@ -173,7 +173,7 @@ html[data-lang="hi"] span.lang-inline[data-lang="hi"] {
 }
 
 /* ========================================== */
-/* REVA BRANDED MINIMALIST LAYOUT TEMPLATES  */
+/* MINIMALIST PRESENTATION LAYOUT TEMPLATES  */
 /* ========================================== */
 
 /* Hero / Welcome Layout */

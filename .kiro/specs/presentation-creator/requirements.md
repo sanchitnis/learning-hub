@@ -2,9 +2,9 @@
 
 ## Introduction
 
-The AI-powered presentation creator is part of the **REVA Learning Hub** — a Human-AI collaborative platform for AI-era curriculum development, portfolio-first learning, and enterprising student formation. This system works alongside specialist academic agents (particularly the `content-developer` agent) to generate first-draft learning objects that faculty review, edit, and contextualise.
+The AI-powered presentation creator is part of the **Learning Hub** — a Human-AI collaborative platform for AI-era curriculum development, portfolio-first learning, and enterprising student formation. This system works alongside specialist academic agents (particularly the `content-developer` agent) to generate first-draft learning objects that faculty review, edit, and contextualise.
 
-The presentation creator converts markdown-based course content into modern, interactive Next.js web applications deployed on Vercel. It supports the REVA pedagogical philosophy by enabling:
+The presentation creator converts markdown-based course content into modern, interactive Next.js web applications deployed on Vercel. It supports the institutional pedagogical philosophy by enabling:
 - **AI-Native Learning Experience**: Server-side rendering, API routes, and extensibility for AI-driven feedback and conversational tutoring
 - **Outcome-Based Education (OBE)**: Foundation for tracking learning outcomes and student progress (Phase 2)
 - **Portfolio-First Design**: Every presentation becomes a deployable artifact demonstrating technical and pedagogical competency
@@ -52,7 +52,7 @@ This architectural shift enables a **resilient AI-era pedagogical engine** — a
 - AI-driven conversational tutoring and real-time feedback
 - Learning outcome tracking and CO attainment analysis
 - Student progress dashboards and at-risk detection
-- Integration with REVA Learning Hub analytics infrastructure
+- Integration with Learning Hub analytics infrastructure
 
 ### Content Storage Architecture
 
@@ -70,9 +70,9 @@ Course content (presentations, slides, quizzes) remains in markdown or other tex
 
 The Next.js application provides API routes and middleware for future extensibility. In Phase 2, the application can connect to Supabase to log learner interactions for analytics purposes, but all course content itself remains in version-controlled text files.
 
-### Integration with REVA Learning Hub
+### Integration with Learning Hub
 
-This system operates as part of the broader REVA Academic Platform ecosystem:
+This system operates as part of the broader Academic Platform ecosystem:
 
 **Primary Agent Integration:**
 - **`content-developer`**: Generates first-draft presentations that this system converts to Next.js apps
@@ -84,7 +84,7 @@ This system operates as part of the broader REVA Academic Platform ecosystem:
 1. **Requirement Capture**: Faculty feedback and changes → requirements.md
 2. **AI-Agent Synchronization**: AI agent (this system) parses requirements, proposes updates to presentation structure
 3. **Human-in-the-Loop Validation**: AI drafts presentations; faculty approves, edits, and contextualizes (ensuring quality, not "slop")
-4. **Continuous Improvement**: Feedback loop ensures presentations align with REVA pedagogical principles
+4. **Continuous Improvement**: Feedback loop ensures presentations align with institutional pedagogical principles
 
 **Design Philosophy Alignment:**
 - **Human-AI Collaboration**: Faculty retains decision authority; AI accelerates draft generation
@@ -98,7 +98,7 @@ This system embraces an "Agentic Factory" approach where AI agents participate i
 **Requirements Evolution:**
 - Requirements are captured in requirements.md (this document)
 - AI agents can propose updates to requirements based on pedagogical insights, user feedback, or technical improvements
-- Human-in-the-loop validation ensures quality and alignment with REVA educational goals and institutional standards
+- Human-in-the-loop validation ensures quality and alignment with educational goals and institutional standards
 - Changes are version-controlled and auditable
 
 **Benefits of Next.js + Vercel Architecture:**
@@ -382,16 +382,16 @@ This system embraces an "Agentic Factory" approach where AI agents participate i
 6. THE NextJsApp SHALL include API route examples or templates for future integration with AI tutoring services
 7. WHERE API routes are generated, THE NextJsApp SHALL implement proper error handling and timeout management for AI service calls
 
-### Requirement 23: REVA Learning Hub Integration
+### Requirement 23: Learning Hub Integration
 
-**User Story:** As a REVA faculty member, I want the presentation creator to integrate with other REVA academic agents, so that I can leverage the full collaborative intelligence environment for course development.
+**User Story:** As a faculty member, I want the presentation creator to integrate with other academic agents, so that I can leverage the full collaborative intelligence environment for course development.
 
 #### Acceptance Criteria
 
 1. WHERE the `content-developer` agent generates markdown presentations, THE PresentationCreator SHALL accept them as input without requiring manual formatting
 2. WHEN pedagogical markers are present from the `session-planner` agent, THE PresentationCreator SHALL convert them to appropriate interactive React components
-3. WHERE REVA branding is specified in front matter, THE PresentationCreator SHALL apply REVA brand colors, logo, and styling guidelines
+3. WHERE institutional branding is specified in front matter, THE PresentationCreator SHALL apply institutional brand colors, logo, and styling guidelines
 4. THE PresentationCreator SHALL support integration with the `pedagogy-advisor` agent for quality review by accepting review feedback and highlighting areas for improvement
 5. WHERE Bloom's taxonomy levels are specified in front matter, THE NextJsApp SHALL display them appropriately for OBE compliance
-6. THE PresentationCreator SHALL generate presentations that align with REVA's human-AI collaboration philosophy by clearly documenting which sections were AI-generated and which were human-authored
+6. THE PresentationCreator SHALL generate presentations that align with our human-AI collaboration philosophy by clearly documenting which sections were AI-generated and which were human-authored
 7. WHERE portfolio artifacts are required, THE NextJsApp SHALL include metadata that identifies the presentation as a portfolio-worthy learning object

@@ -41,4 +41,4 @@ To convert a markdown presentation into static assets inside `static/presentatio
 python tools/presentation-creator/convert.py ../CourseDesign/<course-name>/<filename>.md
 ```
 
-For detailed steps, refer to [QUICKSTART.md](file:///d:/Github/REVA-learning-hub/tools/presentation-creator/QUICKSTART.md) and the comprehensive user guide [tl300-presentation-creator.md](file:///d:/Github/REVA-learning-hub/docs/05-Tools/tl300-presentation-creator/tl300-presentation-creator.md).
+For detailed steps, refer to [QUICKSTART.md](./QUICKSTART.md) and the comprehensive user guide [tl300-presentation-creator.md](../../docs/05-Tools/tl300-presentation-creator/tl300-presentation-creator.md).

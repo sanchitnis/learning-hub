@@ -6,7 +6,7 @@ is_presentation: true
 
 # Introduction to AI-Era Education
 
-Pioneering the Future of Learning at REVA University.
+Pioneering the Future of Learning and Interactive Assessment.
 
 ---
 

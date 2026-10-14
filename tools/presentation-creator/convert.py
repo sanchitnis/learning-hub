@@ -1010,7 +1010,7 @@ def auto_update_intro_md(front_matter, output_dir):
         
         # 1. Update Interactive Presentations section if not already present
         if pres_link not in intro_content:
-            pres_section_regex = r'(## 🖥️ Interactive Presentations \{#interactive-presentations\}\s*\n\s*Explore the interactive slide decks compiled using the REVA presentation creator:\n)'
+            pres_section_regex = r'(## 🖥️ Interactive Presentations \{#interactive-presentations\}\s*\n\s*Explore the interactive slide decks compiled using the presentation creator:\n)'
             if re.search(pres_section_regex, intro_content):
                 intro_content = re.sub(
                     pres_section_regex,
@@ -1056,11 +1056,11 @@ def main():
         print(f"Error: File '{input_file}' not found")
         sys.exit(1)
 
-    # 0. Validate input file against REVA IPS specification
+    # 0. Validate input file against IPS specification
     try:
         from validate import validate_presentation_markdown
         if not validate_presentation_markdown(input_file):
-            print("\n[CONVERTER ABORTED] Input file failed REVA IPS specification validation.")
+            print("\n[CONVERTER ABORTED] Input file failed IPS specification validation.")
             print("Please fix the non-conforming input markdown rather than altering convert.py.")
             sys.exit(1)
     except ImportError:

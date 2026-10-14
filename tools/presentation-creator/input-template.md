@@ -22,9 +22,9 @@ specVersion: 1.0
 title: "Introduction to AI-Era Education"
 subtitle: "Pioneering the Future of Learning"
 author: "Dr. Sanjay Chitnis"
-email: "sanjay.chitnis@reva.edu.in"
+email: "sanjay@bossofai.org"
 social: "https://linkedin.com/in/sanjaychitnis"
-affiliation: "REVA University"
+affiliation: "Boss of AI"
 theme: "university-corporate"
 date: "2025"
 version: "v1.0"
@@ -116,7 +116,7 @@ Supported types: `note`, `tip`, `info`, `caution`, `warning`, `danger`, `success
 ### Media Elements
 Use standard markdown images and HTML5 video tags for layouts:
 ```markdown
-![REVA University](media/campus.jpg)
+![Campus Learning](media/campus.jpg)
 
 <video src="media/intro.mp4" controls autoplay={false} />
 ```
@@ -346,7 +346,7 @@ A programming paradigm based on the concept of "objects".
 
 ### Mnemonic Block
 ```markdown
-:::mnemonic REVA TRACK
+:::mnemonic TRACK Framework
 **T**eaching, **R**esearch, **A**dministration, **C**onsulting, **K**aizen.
 :::
 ```

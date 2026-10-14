@@ -13,12 +13,12 @@ function HomepageHeader() {
         <div className="row">
           {/* Full-width Hero Column */}
           <div className="col col--12 text--center">
-            <div className={styles.heroBadge}>Let's realize Educate to Enterprise</div>
+            <div className={styles.heroBadge}>Educate to Enterprise</div>
             <Heading as="h1" className={styles.heroTitle}>
-              REVA <span className={styles.accentText}>Learning Hub</span>
+              Boss of AI <span className={styles.accentText}>Learning Hub</span>
             </Heading>
             <p className={`${styles.heroSubtitle} margin-bottom--xl`} style={{ marginLeft: 'auto', marginRight: 'auto' }}>
-              A collaborative hub for REVA community - Faculty, Students, Alumni, Researchers, Parents, Industry Partners and other collaborators to Learn and create new content.
+              A collaborative academic hub for learners, educators, researchers, and innovators to master AI and build real-world competency.
             </p>
             
             {/* Wide Buttons Row */}
@@ -90,8 +90,8 @@ export default function Home() {
 
   return (
     <Layout
-      title="REVA Learning Hub"
-      description="Collaborative learning hub for REVA University courses, guides, and interactive slide presentations.">
+      title="Learning Hub"
+      description="Collaborative learning hub for Boss of AI courses, curriculum guides, and interactive microlearning presentations.">
       <HomepageHeader />
       
       <main className="container margin-vert--xl">

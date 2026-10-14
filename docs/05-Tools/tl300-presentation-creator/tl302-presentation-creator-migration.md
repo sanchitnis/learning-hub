@@ -2,27 +2,27 @@
 
 ## Migration Completed: 2025-01-06
 
-The AI-powered presentation creator has been successfully integrated into the REVA Learning Hub repository. The standalone `presentation-creator` repository can now be retired.
+The AI-powered presentation creator has been successfully integrated into the Learning Hub repository. The standalone `presentation-creator` repository can now be retired.
 
 ## What Was Migrated
 
 ### ✅ Specifications
 - **Source**: `d:\Github\presentation-creator\.kiro\specs\ai-presentation-creator\`
-- **Destination**: `d:\Github\REVA-learning-hub\.kiro\specs\presentation-creator\`
+- **Destination**: `d:\Github\learning-hub\.kiro\specs\presentation-creator\`
 - **Files**:
   - `requirements.md` (updated with Next.js + Vercel architecture)
   - `.config.kiro` (feature configuration)
 
 ### ✅ Sample Content
 - **Source**: `d:\Github\presentation-creator\sample\`
-- **Destination**: `d:\Github\REVA-learning-hub\examples\presentations\`
+- **Destination**: `d:\Github\learning-hub\examples\presentations\`
 - **Files**:
   - `Physical AI.html` (reference sample)
   - `Physical AI_files/` (assets)
 
 ### ✅ Project Documentation
 - **Source**: `d:\Github\presentation-creator\Project\`
-- **Destination**: `d:\Github\REVA-learning-hub\docs\05-Tools\presentation-creator\`
+- **Destination**: `d:\Github\learning-hub\docs\05-Tools\presentation-creator\`
 - **Files**:
   - `ai-drivers-license.md`
 
@@ -58,9 +58,9 @@ The requirements document was updated to reflect the new architecture:
 - OBE tracking and CO attainment
 - Student progress dashboards
 
-## Integration with REVA Learning Hub
+## Integration with Learning Hub
 
-The presentation creator now operates as part of the broader REVA Academic Platform:
+The presentation creator now operates as part of the broader Academic Platform:
 
 ### Agent Integration
 - **`content-developer`**: Generates first-draft presentations
@@ -76,10 +76,10 @@ The presentation creator now operates as part of the broader REVA Academic Platf
 
 ## Next Steps for Developers
 
-### 1. Clone REVA Learning Hub
+### 1. Clone Learning Hub
 ```bash
-git clone https://github.com/your-org/REVA-learning-hub.git
-cd REVA-learning-hub
+git clone https://github.com/your-org/learning-hub.git
+cd learning-hub
 ```
 
 ### 2. Navigate to Presentation Creator
@@ -128,19 +128,19 @@ The standalone `presentation-creator` repository at `d:\Github\presentation-crea
 
 1. **Archived** on GitHub (if hosted remotely)
 2. **Locally backed up** and removed from active development
-3. **Redirected** - Add a README pointing to REVA-learning-hub
+3. **Redirected** - Add a README pointing to learning-hub
 
 ### Suggested README for Old Repo
 ```markdown
 # ⚠️ This Repository Has Been Retired
 
-The AI-powered presentation creator has been integrated into the **REVA Learning Hub**.
+The AI-powered presentation creator has been integrated into the **Learning Hub**.
 
 **New Location:**
-https://github.com/your-org/REVA-learning-hub
+https://github.com/your-org/learning-hub
 
 **Documentation:**
-https://github.com/your-org/REVA-learning-hub/tree/main/docs/05-Tools/presentation-creator
+https://github.com/your-org/learning-hub/tree/main/docs/05-Tools/presentation-creator
 
 **Migration Date:** January 6, 2025
 
@@ -150,13 +150,13 @@ Please update your bookmarks and clones to use the new repository.
 ## Benefits of Integration
 
 ### For Developers
-- **Single Repository**: All REVA tools in one place
+- **Single Repository**: All platform tools in one place
 - **Shared Infrastructure**: Reuse agents, skills, and workflows
 - **Consistent Specifications**: Unified requirements methodology
 - **Better Collaboration**: Integrated issue tracking and PRs
 
 ### For Faculty
-- **Seamless Workflow**: Presentation creator works alongside other REVA tools
+- **Seamless Workflow**: Presentation creator works alongside other platform tools
 - **Agent Integration**: AI agents can generate presentations as part of course development
 - **Quality Assurance**: Integrated review workflows with `pedagogy-advisor`
 - **Portfolio Connection**: Presentations automatically link to student portfolios
@@ -179,8 +179,8 @@ Please update your bookmarks and clones to use the new repository.
 ✅ **Modernized** from static HTML to React components
 ✅ **Enabled** future AI integration via Next.js API routes
 ✅ **Prepared** for Phase 2 Supabase integration
-✅ **Aligned** with REVA's human-AI collaboration philosophy
-✅ **Integrated** with existing REVA agent ecosystem
+✅ **Aligned** with our human-AI collaboration philosophy
+✅ **Integrated** with existing agent ecosystem
 
 ## Configuration Files Migrated
 
@@ -203,8 +203,8 @@ Please update your bookmarks and clones to use the new repository.
 
 - **Documentation**: See `docs/05-Tools/presentation-creator/index.md`
 - **Specification**: See `.kiro/specs/presentation-creator/requirements.md`
-- **GitHub Issues**: https://github.com/your-org/REVA-learning-hub/issues
-- **Email**: learning-hub@reva.edu.in
+- **GitHub Issues**: https://github.com/your-org/learning-hub/issues
+- **Email**: learning@bossofai.org
 - **Slack**: #presentation-creator channel
 
 ---

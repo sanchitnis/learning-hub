@@ -1,7 +1,7 @@
 # AI Driver's License Program
 ## Redesigning Teaching, Learning, Assessment and Curriculum for the AI Era
 
-### REVA University
+### Boss of AI — Academic Platform
 
 ---
 
@@ -9,7 +9,7 @@
 
 ### Building Human Capability, Enterprising Ability, AI Fluency and Responsible Human–AI Collaboration
 
-The purpose of AI integration at REVA University is not merely to improve productivity or automate educational processes. Its purpose is to amplify human capability, strengthen enterprising behaviour, and advance the REVA Human Advantage Framework, enabling learners to create value for themselves, their communities and society.
+The purpose of AI integration is not merely to improve productivity or automate educational processes. Its purpose is to amplify human capability, strengthen enterprising behaviour, and advance the Human Advantage Framework, enabling learners to create value for themselves, their communities and society.
 
 ---
 
@@ -36,7 +36,7 @@ The certification program will enable faculty members to:
 - Understand the transformational impact of AI on higher education, society and future careers.
 - Develop AI literacy, evaluation skills and responsible AI practices.
 - Redesign learning experiences that strengthen human capability and enterprising behaviour.
-- Create AI-ready curricula aligned with REVA's Educate-to-Enterprise philosophy.
+- Create AI-ready curricula aligned with the Educate-to-Enterprise philosophy.
 - Design assessments that verify authentic learning and human contribution.
 - Benchmark global AI education practices and policies.
 - Develop implementation strategies for strengthening human capabilities through AI-enabled education.
@@ -65,11 +65,11 @@ Design and implement assessment systems that validate authentic learning, proces
 
 ## CO-5: Design Learning Experiences for Human Advantage
 
-Design learning experiences that intentionally develop REVA Human Advantage capabilities through effective human–AI partnership.
+Design learning experiences that intentionally develop Human Advantage capabilities through effective human–AI partnership.
 
 ## CO-6: Develop AI-Ready Curriculum and Institutional Implementation Strategies
 
-Design curriculum maps, benchmarking studies, policy reviews and implementation plans that align teaching and learning with REVA University's Educate-to-Enterprise philosophy.
+Design curriculum maps, benchmarking studies, policy reviews and implementation plans that align teaching and learning with the Educate-to-Enterprise philosophy.
 
 ---
 
@@ -201,7 +201,7 @@ Faculty perform AI-assisted tasks involving prompting, orchestration, verificati
 
 ## Core Topics
 
-### REVA Human Advantage Framework
+### Human Advantage Framework
 
 Understanding the capabilities that remain uniquely valuable and increasingly important in the AI era.
 
@@ -407,7 +407,7 @@ Comparative review of:
 
 Comparative analysis of:
 
-- REVA University AI Policy
+- Institutional AI Policy
 - Leading global university policies
 
 ### Educate-to-Enterprise Through AI
@@ -484,7 +484,7 @@ Analysis dimensions:
 ## Component 5
 ### Comparative AI Policy Review
 
-Compare REVA AI Policy with at least two global institutions.
+Compare institutional AI Policy with at least two global institutions.
 
 Areas of review:
 
@@ -504,7 +504,7 @@ Policy audit, gap analysis and recommendations.
 
 Title:
 
-**Implementing Educate-to-Enterprise at REVA University Using AI**
+**Implementing Educate-to-Enterprise Using AI**
 
 The blueprint should address:
 
@@ -559,9 +559,9 @@ Participants must successfully complete:
 ---
 
 # Appendix A
-# REVA Human Advantage Framework (RHAF)
+# Human Advantage Framework (HAF)
 
-The REVA Human Advantage Framework defines the capabilities that education must intentionally cultivate in every learner and across every discipline.
+The Human Advantage Framework defines the capabilities that education must intentionally cultivate in every learner and across every discipline.
 
 1. Commitment and Self-Management
 2. Conscientiousness
@@ -583,11 +583,11 @@ The REVA Human Advantage Framework defines the capabilities that education must 
 
 # Appendix B Institutional Context
 
-## REVA Vision
+## Institutional Vision
 
-> “To become a technologically advanced, sustainable global university dedicated to the wellbeing of all.”
+> “To become a technologically advanced, sustainable global educational environment dedicated to the wellbeing of all.”
 
-## REVA Mission
+## Institutional Mission
 
 - Provide learner-centric education leveraged with cutting-edge technologies.
 - Foster stewardship by nurturing talent, leadership qualities, and entrepreneurial thinking in a safe and secure environment.
@@ -595,12 +595,12 @@ The REVA Human Advantage Framework defines the capabilities that education must 
 - Promote a culture of collaboration and cooperation.
 - Serve humanity and promote sustainability through higher education based on universal values.
 
-## REVA Values
+## Core Values
 
 - Ethics and Ownership
 - Involvement and Commitment
 
-## REVA Philosophy
+## Core Philosophy
 
 ### Educate to Enterprise (E2E)
 
@@ -610,9 +610,7 @@ The purpose of education is not merely to prepare students for employment. It is
 
 ## Guiding Principle for the program
 
-> The purpose of AI integration at REVA University is to strengthen human capability, nurture enterprising behaviour, cultivate character and values, and empower learners to create meaningful impact in society through responsible human–AI collaboration.
-
-> The purpose of AI integration at REVA University is to strengthen human capability, nurture enterprising behaviour, cultivate character and values, and empower learners to create meaningful impact in society through responsible human–AI collaboration.
+> The purpose of AI integration is to strengthen human capability, nurture enterprising behaviour, cultivate character and values, and empower learners to create meaningful impact in society through responsible human–AI collaboration.
 
 
 ---

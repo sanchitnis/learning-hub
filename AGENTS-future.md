@@ -3,7 +3,7 @@
 
 # This document is for future. Do not read it now.
 
-This document defines the specialist AI collaboration partners within the REVA Academic Platform. Each agent works alongside humans — generating drafts, analyses, and structured options that humans review, adapt, and approve. **Human decision authority is non-negotiable at every stage.**
+This document defines the specialist AI collaboration partners within the Academic Platform. Each agent works alongside humans — generating drafts, analyses, and structured options that humans review, adapt, and approve. **Human decision authority is non-negotiable at every stage.**
 
 ## Core Academic Lifecycle Agents
 
@@ -36,14 +36,14 @@ This document defines the specialist AI collaboration partners within the REVA A
 | `stakeholder-validator` | Prepares validation instruments and synthesises feedback; industry experts and faculty conduct conversations | industry-review-facilitator, advisory-panel-coordinator |
 | `bos-governance-officer` | Prepares BOS proposals, compliance checks, agendas, and draft minutes; Board deliberates and decides | bos-proposal-formatter, regulatory-compliance-checker |
 | `enterprising-skills-designer` | Co-designs enterprising human skills curriculum with faculty; embeds initiative, adaptability, ethics, and creativity | enterprising-co-designer, human-skills-rubric-builder |
-| `srujana-pathway-designer` | Architects Srujana pathway in collaboration with placement, industry relations, and REVA NEST teams | srujana-stage-designer, internship-framework-builder, venture-launch-designer |
+| `srujana-pathway-designer` | Architects Srujana pathway in collaboration with placement, industry relations, and the platform NEST teams | srujana-stage-designer, internship-framework-builder, venture-launch-designer |
 | `portfolio-architect` | Redesigns courses to be portfolio-first; every course produces a publication, product, or documented solution | portfolio-co-linker, publication-scaffolder, product-brief-generator |
 | `ai-personalization-engine` | Configures AI tutoring and personalised pathways; human advisors and faculty monitor and intervene | ai-tutor-configurator, personalised-pathway-engine |
 | `certification-integrator` | Maps NPTEL, SWAYAM, and professional certifications to programme credits; faculty and BOS validate equivalences | nptel-credit-mapper, swayam-integration-designer |
 | `internationalization-agent` | Researches partners and co-drafts frameworks; academic leadership and partner institutions negotiate and decide | twinning-programme-designer, dual-degree-framework |
 | `nirf-accelerator` | Analyses NIRF gaps and builds action plans for leadership review and prioritisation | nirf-parameter-analyzer, nirf-data-pipeline |
 | `accreditation-officer` | Prepares NBA SAR, NAAC DVV, and institutional documentation; peer committees review and certify | nba-sar-generator, naac-dvv-preparer |
-| `interdisciplinary-connector` | Maps minor opportunities across all four models; faculty and programme committees decide which minors to activate | minor-framework-designer, intra-reva-minor-designer |
+| `interdisciplinary-connector` | Maps minor opportunities across all four models; faculty and programme committees decide which minors to activate | minor-framework-designer, intra-the platform-minor-designer |
 
 ---
 *For a complete list of underlying skills and workflows, refer to the directory structure defined in `specification/architecture.md`.*

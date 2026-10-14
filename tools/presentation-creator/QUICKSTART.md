@@ -21,7 +21,7 @@ Every presentation has its own folder containing a source markdown input file (l
 
 ### 1. Run the Conversion
 
-To convert a specific course's markdown presentation, run the compiler from the root of the `REVA-learning-hub` repository:
+To convert a specific course's markdown presentation, run the compiler from the root of the `learning-hub` repository:
 ```bash
 python tools/presentation-creator/convert.py ../CourseDesign/<course-name>/<filename>.md
 ```
@@ -48,7 +48,7 @@ And navigate to:
 ---
 
 ## Supported Features in Input Markdown
-Refer to [input-template.md](file:///d:/Github/REVA-learning-hub/tools/presentation-creator/input-template.md) for full details on formatting specifications, including:
+Refer to [input-template.md](./input-template.md) for full details on formatting specifications, including:
 - YAML Front Matter fields (`title`, `author`, `affiliation`, etc.)
 - Slide delimiters (`---` with surrounding blank lines)
 - Interactive H5P components (`:::accordion`, `:::tabs`, `:::mcq`, `:::truefalse`, `:::matching`, `:::sequence`, `:::timeline`, `:::hotspots`, `:::compare`, `:::cards`)
