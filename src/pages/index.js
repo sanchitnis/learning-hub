@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from '@docusaurus/Link';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
@@ -73,7 +74,7 @@ export default function Home() {
       title: 'CSU102: Modern Web Dev',
       desc: 'Building scalable, high-performance web applications using modern Javascript frameworks and static build tools.',
       route: '/csu102-modern-web-dev',
-      slidesRoute: 'pathname:///presentations/sample-presentation/',
+      slidesPath: '/presentations/sample-presentation/',
       icon: '💻',
       colorClass: styles.pillarGold
     },
@@ -82,7 +83,7 @@ export default function Home() {
       title: 'CSA490: Software 3.0',
       desc: 'Agentic Software Engineering. Learn context orchestration, ReAct patterns, RAG pipelines, and multi-agent frameworks.',
       route: '/csa490-software3',
-      slidesRoute: 'pathname:///presentations/ai-drivers-license/',
+      slidesPath: '/presentations/ai-drivers-license/',
       icon: '🤖',
       colorClass: styles.pillarRose
     }
@@ -117,14 +118,14 @@ export default function Home() {
                   >
                     Open Course
                   </Link>
-                  {course.slidesRoute && (
-                    <Link 
+                  {course.slidesPath && (
+                    <a 
                       className="button button--primary button--sm" 
-                      href={course.slidesRoute}
+                      href={useBaseUrl(course.slidesPath)}
                       style={{ fontWeight: '700', color: '#060B13' }}
                     >
                       Play Slides
-                    </Link>
+                    </a>
                   )}
                 </div>
               </div>
